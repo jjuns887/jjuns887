@@ -1,7 +1,7 @@
 
 
 
-![Alt text](image.png)
+
 <!--
 **jjuns887/jjuns887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 
 ![이미지](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<img src=
->
+<div align=center><h1>📚 STACKS</h1></div>
