@@ -26,13 +26,13 @@ Here are some ideas to get you started:
  ### 개발지망을 목표로 하고있으며 다룰수있는 툴로는
 <div align=center><h1>📚 STACKS</h1></div
 <img src="https://img.shields.io/badge/Unity-000000
-?style=for-the-badge&logo=unity&logoColor=white"> 
+?style=for-the-badge&logo=unity&logoColor=white"/> 
 <img src="https://img.shields.io/badge/github-181717
-?style=for-the-badge&logo=github&logoColor=white"> 
+?style=for-the-badge&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/BLENDER-E87D0D
-?style=for-the-badge&logo=BLENDER&logoColor=white"> 
+?style=for-the-badge&logo=BLENDER&logoColor=white"/> 
 <img src="https://img.shields.io/badge/VSC-007ACC
-?style=for-the-badge&logo=VSC&logoColor=white"> 
+?style=for-the-badge&logo=VSC&logoColor=white"/> 
 
 
 ## 지금까지 제 gitHub를 봐주셔서 감사합니다.
