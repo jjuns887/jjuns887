@@ -25,7 +25,7 @@
 ?style=for-the-badge&logo=VSC&logoColor=white"> 
 
 
-![Alt text](image.png)
+
 ## 계속 성장하는 모습을 보여드리도록 하겠습니다!
 
 ## 지금까지 제 gitHub를 봐주셔서 감사합니다.
