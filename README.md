@@ -1,6 +1,6 @@
 ![이미지](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=welcome%20to%20my%20github)
 
-
+제 깃허브에 오신것을 환영합니다!
 <!--
 **jjuns887/jjuns887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
