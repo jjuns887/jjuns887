@@ -1,6 +1,6 @@
 
 
-![이미지] (https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=welcome%20to%20my%20github)
+
 
 <!--
 **jjuns887/jjuns887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
