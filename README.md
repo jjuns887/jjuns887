@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![이미지](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
- ![Alt text](image-1.png)
+ ![Alt text](image-3.png)
  ## 저는 특히 친구들과 하는 모임이나 활동을 굉장히<br> 좋아합니다.
  ### 개발지망을 목표로 하고있으며 다룰수있는 툴로는
 <div align=center><h1>📚 STACKS</h1></div>
