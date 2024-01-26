@@ -1,5 +1,4 @@
-
-
+![이미지](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=welcome%20to%20my%20github)
 
 
 <!--
@@ -16,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+
  저는 다양한게임을 만들며 친구들과 실력을 함께 <br>키우고싶은 안준수고합니다.
 
 ![이미지](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
