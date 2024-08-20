@@ -7,6 +7,7 @@
 ### 저는 다양한게임을 만들며 친구들과 실력을 함께 <br>키우고싶은 안준수라고합니다.
 
 ![이미지](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuns887)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
