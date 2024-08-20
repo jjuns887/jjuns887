@@ -15,14 +15,10 @@
  ## 저는 특히 친구들과 하는 모임이나 활동을 굉장히<br> 좋아합니다.
  ### 개발지망을 목표로 하고있으며 다룰수있는 툴로는
 ###### <div align=center><h1>📚 사용가능툴</h1></div>
-<img src="https://img.shields.io/badge/Unity-000000
-?style=for-the-badge&logo=Unity&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-181717
-?style=for-the-badge&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/BLENDER-E87D0D
-?style=for-the-badge&logo=BLENDER&logoColor=white"> 
-<img src="https://img.shields.io/badge/VSC-007ACC
-?style=for-the-badge&logo=VSC&logoColor=white"> 
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/BLENDER-E87D0D?style=for-the-badge&logo=BLENDER&logoColor=white"> 
+<img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VSC&logoColor=white"> 
 
 
 
